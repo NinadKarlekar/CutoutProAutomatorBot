@@ -43,10 +43,11 @@ CutoutProAutomatorBot is a UiPath automation sequence designed to enhance images
 
 Watch the demo video below to see the bot in action:
 
-[<iframe width="560" height="315" src="https://www.youtube.com/embed/_8lHOy5MAgE?si=aKmIrFvDByFexNue" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>](https://github.com/NinadKarlekar/CutoutProAutomatorBot/blob/main/Demo_Video/UIPath_ImageEnhance.mkv)
 
 
-https://github.com/NinadKarlekar/CutoutProAutomatorBot/blob/main/Demo_Video/UIPath_ImageEnhance.mkv
+https://github.com/NinadKarlekar/CutoutProAutomatorBot/assets/88243315/50aa42fb-ff8d-467c-90ec-7a3316b57244
+
+
 
 
 ## Acknowledgements
