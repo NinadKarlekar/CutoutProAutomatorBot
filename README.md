@@ -11,7 +11,7 @@ CutoutProAutomatorBot is a UiPath automation sequence designed to enhance images
 
 ## Requirements
 
-- UiPath Studio
+- UiPath Studio (2024.10.1)
 - A web browser (e.g., Chrome, Firefox)
 - Internet connection
 
