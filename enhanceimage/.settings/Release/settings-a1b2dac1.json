@@ -1,4 +1,4 @@
-{
+﻿{
   "UiPath.UIAutomationNext.Activities.Generic.DelayAfter": "0.3",
   "UiPath.UIAutomationNext.Activities.Generic.DelayBefore": "0.2",
   "UiPath.UIAutomationNext.Activities.Generic.Timeout": "30",
@@ -27,5 +27,8 @@
   "UiPath.UIAutomationNext.Activities.InjectJs.InjectJsExecutionWorld": "Isolated",
   "UiPath.UIAutomationNext.Activities.Logging.SearchLog": "False",
   "UiPath.UIAutomationNext.Activities.Logging.SearchPerformanceLog": "False",
-  "UiPath.UIAutomationNext.Activities.Logging.AuditLogLevel": "Trace"
+  "UiPath.UIAutomationNext.Activities.Logging.AuditLogLevel": "Trace",
+  "UiPath.UIAutomationNext.Activities.Generic.WaitPrimaryUntilTimeout": "False",
+  "UiPath.UIAutomationNext.Activities.Generic.AskAtRuntime": "False",
+  "UiPath.UIAutomationNext.Activities.ClosePopup.PopupAppearTimeout": "30"
 }

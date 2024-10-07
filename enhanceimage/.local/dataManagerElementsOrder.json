@@ -22,9 +22,7 @@
     {
       "Path": "Sequence.xaml",
       "SortBy": 0,
-      "VariablesSectionElementsOrder": [
-        "nk&Sequence_1"
-      ],
+      "VariablesSectionElementsOrder": [],
       "ArgumentsSectionElementsOrder": [],
       "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null
