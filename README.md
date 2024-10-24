@@ -7,7 +7,7 @@ CutoutProAutomatorBot is a UiPath automation sequence designed to enhance images
 - Automates image enhancement using Cutout.Pro
 - Uploads images from a specified folder
 - Downloads enhanced images automatically
-- Deletes original images after enhancement
+
 
 ## Requirements
 
@@ -36,7 +36,6 @@ CutoutProAutomatorBot is a UiPath automation sequence designed to enhance images
    - Wait for 15 seconds for the enhancement process.
    - Click the "Free Download" button if it is visible.
    - Refresh the site using `F5`.
-   - Delete the original image from the folder.
    - Repeat the process for all images in the folder.
 
 ## Demo Video
