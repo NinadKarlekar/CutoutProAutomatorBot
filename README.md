@@ -45,7 +45,10 @@ Watch the demo video below to see the bot in action:
 
 
 
-https://github.com/NinadKarlekar/CutoutProAutomatorBot/assets/88243315/50aa42fb-ff8d-467c-90ec-7a3316b57244
+
+https://github.com/user-attachments/assets/8cfde1a9-0164-4047-a4d1-d50ade724e3d
+
+
 
 
 
